@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RISCV_Simulator", "RISCV_Simulator\RISCV_Simulator.csproj", "{4A7E8AA8-9DDE-4CC4-ADBE-DF05CE8D3A19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A7E8AA8-9DDE-4CC4-ADBE-DF05CE8D3A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A7E8AA8-9DDE-4CC4-ADBE-DF05CE8D3A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A7E8AA8-9DDE-4CC4-ADBE-DF05CE8D3A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A7E8AA8-9DDE-4CC4-ADBE-DF05CE8D3A19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62ABD00C-F74A-41F1-AF66-52B71B6FEE90}
+	EndGlobalSection
+EndGlobal
