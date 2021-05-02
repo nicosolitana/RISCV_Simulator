@@ -2,5 +2,10 @@
 {
     class SourceCode
     {
-    }
+        /*
+        public string Address;
+        public string OpCode;
+        public string Code;
+        */
+   }
 }
